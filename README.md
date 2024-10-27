@@ -7,4 +7,4 @@ Source code of  A Blockchain and Certificateless Aggregate Signature-Based Carbo
 5. Modifying the value of N _ ATTR in carbon.c can calculate the computational overhead of verifying different number of signatures.
 6. Result
 ![image](https://github.com/limuzi-bb/Source-code/blob/main/result1.jpg)
-![image](https://github.com/limuzi-bb/Source-code/blob/main/result1.jpg)
+![image](https://github.com/limuzi-bb/Source-code/blob/main/result2.jpg)
