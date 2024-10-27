@@ -5,6 +5,6 @@ Source code of  A Blockchain and Certificateless Aggregate Signature-Based Carbo
 3. The target of carbon.c is to measure operations' time consumption.
 4. ./carbon < ./a.param
 5. Modifying the value of N _ ATTR in carbon.c can calculate the computational overhead of verifying different number of signatures.
-6. Result\n
+6. Results
 ![image](https://github.com/limuzi-bb/Source-code/blob/main/result1.jpg)
 ![image](https://github.com/limuzi-bb/Source-code/blob/main/result2.jpg)
